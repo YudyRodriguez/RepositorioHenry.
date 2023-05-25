@@ -1,2 +1,1 @@
-# RepositorioHenry.
-Solucion Homework 2 nivel
+Solución homework modulo 2
